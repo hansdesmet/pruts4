@@ -3,7 +3,7 @@ package be.vdab.pruts4;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication // 1
 public class Pruts4Application {
 
     public static void main(String[] args) {
